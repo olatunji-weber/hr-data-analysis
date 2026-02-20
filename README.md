@@ -1,3 +1,5 @@
+![HR Analytics Dashboard](HR-Analytics-Dashboard-Screenshot.png)
+
 # HR Analytics Dashboard
 
 ## Overview
